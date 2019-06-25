@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "sapper-i18next-example",
+  "description": "My attempt to add i18next to a Sapper app ",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
