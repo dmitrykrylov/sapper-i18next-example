@@ -59,17 +59,6 @@
     padding: 1em 0.5em;
     display: block;
   }
-
-  .language-switchers {
-    display: flex;
-    align-items: center;
-  }
-  .language-btn {
-    height: 32px;
-  }
-  .language-selected {
-    height: 32px;
-  }
 </style>
 
 <nav>
